@@ -16,7 +16,7 @@ This project implements a secure, decentralized Electronic Health Record (EHR) s
 - **Database**: MongoDB
 
 ## Methodology
-**Use Case**
+# Use Case
 ![Use Case](./img/usecase.jpg)
 
 
