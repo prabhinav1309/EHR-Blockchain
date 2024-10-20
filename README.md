@@ -18,5 +18,23 @@ This project implements a secure, decentralized Electronic Health Record (EHR) s
 ## Methodology
 ### Use Case
 ![Use Case](./img/usecase.jpg)
+### Class
+![Class](./img/class.jpg)
+### Dataflow
+![Dataflow](./img/dfd.jpg)
+### Flowchart
+![Flowchart](./img/flowchart.jpg)
 
-
+## Snapshots
+### Landing Page
+![Alt Text](./img/landingpage.jpg)
+### Dashboard
+![Alt Text](./img/dashboard.jpg)
+### Register Doctor
+![Alt Text](./img/docreg.jpg)
+### Register Patient
+![Alt Text](./img/patreg.jpg)
+### Ganache
+![Alt Text](./img/ganache.jpg)
+### Metamask
+![Alt Text](./img/metamask.jpg)
